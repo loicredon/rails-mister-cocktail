@@ -1,2 +1,18 @@
 // Import page-specific CSS files here.
 @import "home";
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1531002329786-97e3efcb754b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container h1 {
+  color: white
+}
+
+.container li {
+  text-decoration: none;
+  color: white;
+}
